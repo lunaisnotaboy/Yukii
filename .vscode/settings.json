@@ -1,5 +1,5 @@
 {
-  "dotnet.defaultSolution": "Yukii.sln",
+  "dotnet.defaultSolution": "YukiiUnity.sln",
   "files.exclude": {
     "**/.DS_Store": true,
     "**/.git": true,
